@@ -30,29 +30,30 @@ This is a data science portfolio project featuring an interactive e-commerce ana
 
 ## 📦 Installation 
 
-# Clone the repository
+**Clone the repository**
 git clone https://github.com/nehiralgan/ecommerce-dashboard.git
 cd ecommerce-dashboard
 
-# Create virtual environment
+**Create virtual environment**
 python -m venv venv
 
-# Activate virtual environment
+**Activate virtual environment**
 venv\Scripts\activate  # Windows
-# source venv/bin/activate  # Mac/Linux
+source venv/bin/activate  # Mac/Linux
 
-# Install dependencies
+**Install dependencies**
 pip install -r requirements.txt
 
-# Run the application
+**Run the application**
 streamlit run app.py
 
 ## 📸 Screenshots
 
-# Dashboard Overview
+**Dashboard Overview**
+![Dashboard](images/dashboard.png)
 
+**Monthly Revenue Trend**
+![Trend](images/trend.png)
 
-# Monthly Revenue Trend
-
-
-# Country Distribution
+**Country Distribution**
+![Countries](images/country.png)
