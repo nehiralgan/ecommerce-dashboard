@@ -25,8 +25,6 @@ This is a data science portfolio project featuring an interactive e-commerce ana
 - 💵 **Price Distribution** - Analyze product pricing
 - 🔍 **Interactive Filters** - Filter by country in real-time
 
-## 🛠️ Tech Stack
-
 
 ## 📦 Installation 
 
