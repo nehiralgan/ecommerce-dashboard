@@ -1,0 +1,26 @@
+# Veri dosyaları (büyük dosyalar GitHub'a yüklenmez)
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit cache
+.streamlit/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
