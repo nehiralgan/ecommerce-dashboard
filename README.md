@@ -55,3 +55,7 @@ streamlit run app.py
 
 **Country Distribution**
 ![Countries](images/country.png)
+
+## 📱 Contact
+
+If you have questions about this project, feel free to open an issue or contact the author.
